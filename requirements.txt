@@ -1,5 +1,7 @@
 tensorflow
 Pillow
 matplotlib
+seaborn
 numpy
 tiktoken
+pandas
